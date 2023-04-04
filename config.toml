@@ -1,0 +1,23 @@
+baseURL = 'http://localhost'
+languageCode = 'en'
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+title = '[Data Forge]'
+copyright = 'Traffic Max'
+theme = 'hugo-theme-itheme'
+paginate = 5
+[params]
+  defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
+  email = 'smmtargettt@gmail.com'
+  [[params.socialMedia]]
+    name = 'Github'
+    url = 'https://github.com/bot-Badass'
+  [[params.socialMedia]]
+    name = 'Instagram'
+    url = 'https://www.instagram.com/badass.show/'
+  [[params.blogroll]]
+    name = 'Youtube'
+    url = 'https://youtube.com/'
+  [[params.blogroll]]
+    name = 'Apple'
+    url = 'https://apple.com/'
